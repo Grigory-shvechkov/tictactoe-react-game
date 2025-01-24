@@ -2,7 +2,8 @@
 
 This is a Tic-Tac-Toe game implemented in React.
 
-![Tic-Tac-Toe Animation](master/asset/tictactoe-react.gif)
+![Tic-Tac-Toe Animation](asset/tictactoe-react.gif)
+
 
 ## Overview
 This is a simple Tic-Tac-Toe game implemented using React, where a user can play against an AI opponent or play with another human. The AI makes moves using the **Minimax** algorithm to calculate the best possible move.
