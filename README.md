@@ -2,7 +2,8 @@
 
 This is a Tic-Tac-Toe game implemented in React.
 
-![Tic-Tac-Toe Animation](https://github.com/Grigory-shvechkov/tictactoe-react-game/raw/master/asset/tictactoe-react.gif)
+![Tic-Tac-Toe Animation](https://github.com/Grigory-shvechkov/tictactoe-react-game/raw/master/assets/tictactoe-react.gif)
+
 
 
 
